@@ -6,3 +6,6 @@ a tarkov fully made with python and ai auto trader for infinite profit on the ma
 ![alt text](https://github.com/koltis/Tarkov-Ai-Marked-Trader/blob/master/pricesmoney.png?raw=true)
 ![alt text](https://github.com/koltis/Tarkov-Ai-Marked-Trader/blob/master/captchasolved.png?raw=true)
 ![alt text](https://github.com/koltis/Tarkov-Ai-Marked-Trader/blob/master/sell.png?raw=true)
+
+marked bot working
+https://www.youtube.com/watch?v=WfATYc0tqP4
